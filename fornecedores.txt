@@ -1,0 +1,1 @@
+teste|string|64219758000106|string|string|string|string|string|string
